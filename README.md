@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/shaharia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaharia0" height="30" width="40" /></a>
 <a href="https://fb.com/shaharia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaharia0" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chowdhury_shahariaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chowdhury_shahariaa/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ompbygd9_a3rnizh7rucq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ompbygd9_a3rnizh7rucq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3OmpbYgd9_A3rNizh7rucQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ompbygd9_a3rnizh7rucq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
