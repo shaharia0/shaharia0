@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shaharia Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <img align="right" alt="me" width="400" src="https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/326409957_871644147450599_5915776040065252889_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XM0JFQnUqLAAX_tG45S&_nc_ht=scontent.fdac23-1.fna&oh=00_AfDmbS512b-W8jzdYPJMdVE4N0Iw7G4Mc4BU32tZaZDMmw&oe=63D2C793">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharia0&label=Profile%20views&color=0e75b6&style=flat" alt="shaharia0" /> </p>
 
