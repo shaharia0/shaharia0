@@ -1,7 +1,7 @@
+
+<img align="right" alt="me" width="400" src="https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/326409957_871644147450599_5915776040065252889_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEetC2ORAlHFFy6dlC7hlLfBCdYemjY4N4EJ1h6aNjg3lef7KPi_Jfd_YZ9D5kGCaCmxLr2x-AqWzOdzbancOSK&_nc_ohc=2XrcYnFVvRAAX-pN6ym&_nc_ht=scontent.fdac148-1.fna&oh=00_AfBI0CTLM8GOVEGKwa9tDLHgLCWgNRvCLsTBPQHDUHEznQ&oe=63F465D3" alt="shaharia0" /> </p>
 <h1 align="center">Hi, I'm Shaharia Chowdhury</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
-<img align="right" alt="me" width="400" src="https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/326409957_871644147450599_5915776040065252889_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gIDccjcgWXsAX_UMGg5&_nc_ht=scontent.fdac148-1.fna&oh=00_AfBMRaYbBbI_s4akbV2P1wovwabKLPhgrboA1ywNsbjTBw&oe=63EE7713">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharia0&label=Profile%20views&color=0e75b6&style=flat" alt="shaharia0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shaharia0" target="blank"><img src="https://img.shields.io/twitter/follow/shaharia0?logo=twitter&style=for-the-badge" alt="shaharia0" /></a> </p>
 
